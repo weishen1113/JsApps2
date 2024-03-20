@@ -22,5 +22,5 @@ function myFunction2() {
 }
 
 function myFunction3() {
-  copyText("myInput6");
+  copyText("myInput5");
 }
